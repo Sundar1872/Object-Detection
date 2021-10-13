@@ -6,7 +6,7 @@ This report is to how to train a model to detect various .
 
 The ipynb to train and test the model is :
 
-[Human Emotion Detection System](https://github.com/santhoshcharan-001/Human-Emotion-Detection/blob/main/Human-Emotion-Detection/Human%20Emotion%20Detection.ipynb)
+[OBJECT DETECTION](https://github.com/Sundar1872/Object-Detection/blob/main/Object%20Detection/Object-Detection.ipynb)
 
 
 ## Dependencies
