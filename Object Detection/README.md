@@ -15,9 +15,13 @@ Associated with this project, there is a file, "requirements.txt" which lists al
 ```bash
 pip install -r requirements.txt
 ```
-Download the weights [here](https://pjreddie.com/media/files/yolov3.weights -O data/yolov3.weights)
 
-copy and paste them in a new folder called Weights in this folder:
+Dataset is provided in the cell-1 (run the cell and the file provided in the link provided in the cell 1 uploads the weights file directly)
+
+(or)
+
+You can download the weights files [here](https://pjreddie.com/media/files/yolov3.weights) and upload it in a directory namely "data"
+
 
 ## Motivation
 
