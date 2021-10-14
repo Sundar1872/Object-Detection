@@ -23,6 +23,8 @@ Dataset is provided in the cell-1 (run the cell and the file provided in the lin
 You can download the weights files [here](https://pjreddie.com/media/files/yolov3.weights) and upload it in a directory namely "data"
 
 
+
+
 ## Motivation
 
 Our main motivation to select this topic is in present era with  the  rapidly  growing  importance  in  military  and  security  applications  visual  surveillance has  become  a  necessary  area  of  research for improvement . It   is very hard for human operators to monitor for long durations to identify the important events in real-time .But using this system we can detect the objects in the images of the video continuously in the military area to detect any suspicious activity
